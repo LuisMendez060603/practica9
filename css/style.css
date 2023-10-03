@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(199,247,247);
+}
+nav{
+    background-color: rgb(56,55,55);
+}
+thead{
+    background-color: rgb(56,55,55);
+    color: #f0f0f5fb;
+}
+footer div{
+    background-color: rgb(54, 11, 243);
+    width: 898px;
+    height: 80px;
+}
+footer{
+    color: #f0f0f5fb;
+}
